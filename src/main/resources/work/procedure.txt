@@ -1,0 +1,13 @@
+sfa_p_readonlyvisit,0
+proc_leadingHomeList_title,0
+com_p_getsyssetting,0
+sfa_p_rebuildMobileTasks,0
+f_customer_iscandelete,0
+proc_directorHome_detail,0
+proc_directorHome_detail_data,0
+proc_directorHome_actual_visit_detail_data,0
+proc_directorHome_plan_visit_detail_data,0
+proc_directorHome_count_self,0
+pmm_p_workset_signReportDay,0
+sfa_p_attendanceStatisticsReport,1
+sfa_v_userkpiCustomerType,1
